@@ -32,6 +32,8 @@ namespace AhpilyServer.Util.Concurrent
         /// <summary>
         /// 默认直接加1
         /// </summary>
+        /// 
+        /// 
         /// <returns></returns>
         public int Add() {
             return this.Add(1);
