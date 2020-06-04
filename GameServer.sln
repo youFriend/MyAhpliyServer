@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServer", "GameServer\GameServer.csproj", "{19F6BF6C-E668-43D7-A57E-B78B0F1B6F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AhpilyServer", "AhpilyServer\AhpilyServer.csproj", "{A0C0C894-7461-4C42-BC8F-D95F1A37A66A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protocol", "Protocol\Protocol.csproj", "{16D15E1B-4370-47FF-802E-5BF819E269C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "..\..\..\ws_u3d\Card_DouDiZhu\Assembly-CSharp.csproj", "{A7792E35-9E8B-4939-BF8A-0B7EDEA7989E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F6BF6C-E668-43D7-A57E-B78B0F1B6F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F6BF6C-E668-43D7-A57E-B78B0F1B6F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F6BF6C-E668-43D7-A57E-B78B0F1B6F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F6BF6C-E668-43D7-A57E-B78B0F1B6F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C0C894-7461-4C42-BC8F-D95F1A37A66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C0C894-7461-4C42-BC8F-D95F1A37A66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C0C894-7461-4C42-BC8F-D95F1A37A66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C0C894-7461-4C42-BC8F-D95F1A37A66A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D15E1B-4370-47FF-802E-5BF819E269C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D15E1B-4370-47FF-802E-5BF819E269C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D15E1B-4370-47FF-802E-5BF819E269C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D15E1B-4370-47FF-802E-5BF819E269C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7792E35-9E8B-4939-BF8A-0B7EDEA7989E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7792E35-9E8B-4939-BF8A-0B7EDEA7989E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7792E35-9E8B-4939-BF8A-0B7EDEA7989E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7792E35-9E8B-4939-BF8A-0B7EDEA7989E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C07D097-3125-411E-BA8C-FE5F11DDD0F8}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
